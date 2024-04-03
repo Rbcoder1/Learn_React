@@ -1,0 +1,13 @@
+.nav_item{
+    display: flex;
+    list-style: none;
+    margin-left: 15pc;
+}
+
+.nav_item li{
+    margin-right: 10px;
+}
+nav{
+    justify-content: center;
+    display: flex;
+}
